@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "605358011899",
+    "firebase_url": "https://pemberremidi-default-rtdb.firebaseio.com",
+    "project_id": "pemberremidi",
+    "storage_bucket": "pemberremidi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605358011899:android:00413d70299e5d6c15c75e",
+        "android_client_info": {
+          "package_name": "com.pember.remidi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1XKmLxULA0kAV249Vuar5Xt8QFt1dHLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
